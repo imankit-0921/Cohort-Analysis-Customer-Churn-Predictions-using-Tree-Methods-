@@ -168,6 +168,4 @@ Main notebook: **Customer_Churn_Predictions.ipynb**
 
 ---
 
-## 📜 License
-This project is released under the MIT License.
-
+**Ankit Kumar Upadhyay**  
